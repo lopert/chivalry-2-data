@@ -5,6 +5,8 @@ manual parsed data for Chivalry 2
 This will be a CSV export of Dumpster's damage sheet.  
 Anyone can then pull this CSV to make their own sheets.
 
+# Other info
+
 ## damage types
 
 ### cut (swords)
